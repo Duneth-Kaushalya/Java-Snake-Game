@@ -4,6 +4,6 @@ Instructions to run:
 
 First command: javac GameFrame.java GamePanel.java SnakeGame.java
 
-Second command: java GameFrame GamePanel SnakeGame
+Second command: java SnakeGame GameFrame GamePanel
 
 Program will then open.
